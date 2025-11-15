@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+
+# --- Entornos virtuales ---
+.env/
+.venv/
+venv/
+ENV/
+env/
+*/.conda/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- VSCode ---
+.vscode/
+
+# --- MacOS ---
+.DS_Store
+
+# --- Datos grandes ---
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.db
+
+# --- Logs ---
+*.log
+
+# --- Archivos temporales ---
+*.tmp
+*.bak
